@@ -23,26 +23,6 @@
 - Legacy function (_in tribute of skin_customization_) for a compatibility with old mods like FiveM_Cops
 
 
-## Getting Started
-
-### 1. Clone the repository
-``` bash
-$ git clone https://github.com/xchopin/FiveM-Clothes.git
-```
-
-### 2. Import the SQL file into your DBMS
-``` bash
-$ mysql> ./clothing_shop_SQL.sql
-```
-
-
-### 3. Create your settings file (and fill the fields)
-``` bash
-$ cp Server/settings.lua.dist settings.lua
-```
-
-### 4. Add the dependency to your .yml
-
 
 ## Gameplay
 - In a special menu, press right or left arrow to change the texture
