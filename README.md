@@ -76,7 +76,3 @@ clothing_shop:getSkin_client(skin)
 
 clothing_shop:loadItems_client(items)
 ```
-
-### Contributors
-- @xchopin
-- @TheBritishBrotherhood
